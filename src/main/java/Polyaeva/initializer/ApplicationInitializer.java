@@ -7,7 +7,7 @@ import org.springframework.web.servlet.DispatcherServlet;
 import javax.servlet.ServletContext;
 
 public class ApplicationInitializer implements WebApplicationInitializer {
-    private static final String BASE_PACKAGE = "ru.netology";
+    private static final String BASE_PACKAGE = "ru.Polyaeva";
     private static final String SERVLET_NAME = "app";
     private static final String DELIMITER = "/";
     @Override
