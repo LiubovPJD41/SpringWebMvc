@@ -1,12 +1,10 @@
 package Polyaeva.repository;
 
-
 import Polyaeva.exception.NotFoundException;
 import Polyaeva.model.Post;
 import Polyaeva.model.PostDTO;
 import Polyaeva.model.PostDTOMapper;
 import org.springframework.stereotype.Repository;
-
 
 import java.util.List;
 import java.util.Objects;

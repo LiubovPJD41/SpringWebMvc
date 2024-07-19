@@ -5,7 +5,6 @@ import Polyaeva.model.PostDTO;
 import Polyaeva.service.PostService;
 import org.springframework.web.bind.annotation.*;
 
-
 import java.util.List;
 
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;

@@ -1,11 +1,10 @@
 package Polyaeva.service;
 
-import Polyaeva.exception.NotFoundException;
 import Polyaeva.model.Post;
 import Polyaeva.model.PostDTO;
 import Polyaeva.repository.PostRepository;
 import org.springframework.stereotype.Service;
-
+import Polyaeva.exception.NotFoundException;
 
 import java.util.List;
 
